@@ -1,6 +1,6 @@
 # nanoseconds
 
-CLI tool printing current epoch nanoseconds equivalent to GNU date +'%s%N'.
+CLI tool printing current nanoseconds since Unix epoch. Equivalent to GNU `date +'%s%N'` but cross-platform.
 
 ## License
 
